@@ -1,0 +1,124 @@
+{
+  "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "26f8f525-0260-44b5-9f1d-96f3f18f203a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Case-Collective-Header_1.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "16637890241bab33e3": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "f2d17d19-f8ab-4571-9381-b05ec0e30211": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16207216509086__f2d17d19-f8ab-4571-9381-b05ec0e30211-1687539370b5915e6f-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "case-collective-iphone-14-series",
+            "label": "iPhone 14 Series",
+            "button_text": "Shop All iPhone 14 Series",
+            "button_url": ""
+          }
+        },
+        "3b7cae00-5721-43ec-a757-f3a871fef559": {
+          "type": "collection",
+          "settings": {
+            "collection": "case-collective-galaxy-s23-series",
+            "label": "Galaxy S23 Series",
+            "button_text": "Shop All Galaxy S23 Series",
+            "button_url": ""
+          }
+        },
+        "443fc4a6-032e-4f98-ba64-07ae045cc9bf": {
+          "type": "collection",
+          "settings": {
+            "collection": "case-collective-iphone-13-series",
+            "label": "iPhone 13 Series",
+            "button_text": "Shop All iPhone 13 Series",
+            "button_url": ""
+          }
+        },
+        "abb7f1fc-6410-4d4c-8cff-8c46fce90fb7": {
+          "type": "collection",
+          "settings": {
+            "collection": "case-collective-galaxy-s22-series",
+            "label": "Galaxy S22 Series",
+            "button_text": "Shop All Galaxy S22 Series",
+            "button_url": ""
+          }
+        },
+        "1b736555-822a-40d5-99f8-8d14a0a4a7ac": {
+          "type": "collection",
+          "settings": {
+            "collection": "case-collective-iphone-12-series",
+            "label": "iPhone 12 Series",
+            "button_text": "Shop All iPhone 12 Series",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16207216509086__f2d17d19-f8ab-4571-9381-b05ec0e30211-1687539370b5915e6f-0",
+        "3b7cae00-5721-43ec-a757-f3a871fef559",
+        "443fc4a6-032e-4f98-ba64-07ae045cc9bf",
+        "abb7f1fc-6410-4d4c-8cff-8c46fce90fb7",
+        "1b736555-822a-40d5-99f8-8d14a0a4a7ac"
+      ],
+      "settings": {
+        "subheading": "Click Your Design Then Select your Phone",
+        "title": "Curated Case Designs",
+        "content": "",
+        "products_count": 50,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "shogun-helper",
+    "main",
+    "26f8f525-0260-44b5-9f1d-96f3f18f203a",
+    "16637890241bab33e3",
+    "f2d17d19-f8ab-4571-9381-b05ec0e30211"
+  ]
+}

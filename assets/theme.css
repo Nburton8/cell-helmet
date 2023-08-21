@@ -3550,6 +3550,10 @@ p + .button-group,
   }
 }
 
+.cart__shipping-note {
+  font-size: 12px;
+}
+
 /**
  * -------------------------------------------------------------
  * PAYMENT METHODS
@@ -8573,6 +8577,10 @@ input:checked + .popover__choice-label::after,
     display: flex;
     height: 100%;
   }
+}
+
+.mini-cart__shipping-note {
+  font-size: 12px;
 }
 
 /* Cart details */

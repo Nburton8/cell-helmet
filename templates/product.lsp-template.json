@@ -106,6 +106,61 @@
         "transition_effect": "slide"
       }
     },
+    "ff43bb0e-6a79-4ae3-854b-027e447c3978": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-01_7cfa552f-6391-4955-9f67-df11f2833ece.png",
+            "custom_icon_width": 50,
+            "title": "Stronger Glass",
+            "content": "<p>Strengthens Your Screen On A Molecular Level<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-02_75829c08-1611-4f8d-a92f-1cab6600e9b8.png",
+            "custom_icon_width": 50,
+            "title": "Easy Application",
+            "content": "<p>Easy-To-Follow Three Step Application Process<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-03_30633f57-b543-4ac5-b318-000dec2c4548.png",
+            "custom_icon_width": 50,
+            "title": "Works on all Devices",
+            "content": "<p>Universal Compatibility - Phones, Tablets, Watches And More<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-04_2b650845-36dd-4218-8e8a-9b0a8712ad7f.png",
+            "custom_icon_width": 50,
+            "title": "Made in the USA",
+            "content": "<p>Proudly Produced And Assembled in the USA<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-0",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-1",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-2",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-3"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "c8cb2cdf-33b9-4f89-b3e6-c55dfc4c8f17": {
       "type": "product-recommendations",
       "blocks": {
@@ -169,9 +224,9 @@
     "a6378a7c-1e4b-4aed-812f-8407e07887d5": {
       "type": "rich-text",
       "settings": {
-        "subheading": "",
-        "title": "Slim Protection for  your iPhone",
-        "content": "<p>Experience the best protection for your {{ product.metafields.custom.phone_model.value }} with the Magnitude phone case in {{ product.metafields.custom.product_color.value }} from cellhelmet. This slim-fit MagSafe® case offers the perfect blend of style, protection, and connectivity, ensuring that your phone stays safe from scratches and drops. <\/p><p><\/p>",
+        "subheading": "Liquid Glass Screen Protection",
+        "title": "Scientific Screen Strength",
+        "content": "<p>Searching for a screen protector that works with all phones and tablets, regardless of the model or case? Look no further than Liquid Glass from cellhelmet. Our innovative product is designed to work seamlessly with all devices and cases, making it the perfect choice for anyone who wants industry-leading screen protection.<\/p><p><\/p><p>Combine Liquid Glass with a cellhelmet case, and get unbeatable protection against scratches, cracks, and other types of damage. Don't settle for a screen protector that doesn't work with your favorite case – choose Liquid Glass from cellhelmet. Superior screen protection and complete compatibility with all devices and cases.<\/p>",
         "button_text": "",
         "button_link": "",
         "background_type": "full_width",
@@ -180,6 +235,56 @@
         "text_alignment": "center",
         "background": "#ffffff",
         "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7a5b3f46-e7e2-4e3a-9250-d9814b4fbffb": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=wgn1Z0TYS6s",
+        "background_type": "boxed",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0905907a-ae59-405d-a9e2-ec4f7b1f277f": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "peace of mind",
+        "title": "Our Screen Repair Guarantee",
+        "content": "<p>You know that relaxed feeling you get when all your ducks are in a row? We call that peace of mind, and we sell it right here. cellhelmet's Liquid Glass is backed by comprehensive screen repair guarantees, and coverage levels from $50 to $500 allows you to choose the best option for you.<\/p><p>Accidents happen, and a damaged screen can be an expensive inconvenience. Whether it's a minor scratch or a major crack, our screen repair guarantee ensures your device is repaired ASAP. And THAT is peace of mind, right?<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ef323271-76c5-45cb-8787-fe563e38b075": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "we got you covered",
+        "title": "Damage your screen?",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#282828",
+        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -241,7 +346,7 @@
       "settings": {
         "reveal_on_scroll": true,
         "section_height": "auto",
-        "image": "shopify:\/\/shop_images\/MAGNITUDE_W2W_APLUS2.png",
+        "image": "shopify:\/\/shop_images\/Coverage_0e18912c-0d16-4d71-8c3c-7d29eaf85264.png",
         "subheading": "",
         "title": "",
         "content": "",
@@ -258,69 +363,17 @@
         "overlay_opacity": 0
       }
     },
-    "0905907a-ae59-405d-a9e2-ec4f7b1f277f": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "connect to a wide range of accessories",
-        "title": "magsafe® compatible",
-        "content": "<p>Tap into the convenience of MagSafe® connectivity! Easily snap-on our Magsafe compatible <a href=\"https:\/\/www.cellhelmet.com\/collections\/cellhelmet-magsafe-snap-ring\" title=\"MagSafe Snap Rings by Cellhelmet\">Snap Rings<\/a>, <a href=\"https:\/\/www.cellhelmet.com\/collections\/magsafe-wallets\" title=\"MagSafe Wallets by cellhelmet\">Wallets<\/a>, and <a href=\"https:\/\/www.cellhelmet.com\/products\/5k-mah-power-bank-15w-wireless-charging-with-magnetic-alignment-technology\" title=\"MagSafe Power Bank by cellhelmet\">5k Power Bank<\/a>.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#ffffff",
-        "text_color": "#282828",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "82ca1604-a9fe-4f9f-85aa-9681eefc145a": {
-      "type": "shop-the-look",
-      "blocks": {
-        "template--16192741212318__82ca1604-a9fe-4f9f-85aa-9681eefc145a-16866756675091bb0a-0": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Magsafe-Header_081157cb-31e9-466e-af34-2e71bf253486.png",
-            "dot_type": "inverted",
-            "product_1": "magsafe-compatible-wallet-with-kickstand-deep-sea-blue",
-            "product_1_horizontal_position": 28,
-            "product_1_vertical_position": 52,
-            "product_1_horizontal_position_mobile": 30,
-            "product_1_vertical_position_mobile": 30,
-            "product_2": "chmag-15w-c",
-            "product_2_horizontal_position": 79,
-            "product_2_vertical_position": 36,
-            "product_2_horizontal_position_mobile": 50,
-            "product_2_vertical_position_mobile": 50,
-            "product_3": "car-vent-mount-w-fast-wireless-charging-pad-magnetic-alignment-technology-15w",
-            "product_3_horizontal_position": 64,
-            "product_3_vertical_position": 50,
-            "product_3_horizontal_position_mobile": 70,
-            "product_3_vertical_position_mobile": 70
-          }
-        }
-      },
-      "block_order": [
-        "template--16192741212318__82ca1604-a9fe-4f9f-85aa-9681eefc145a-16866756675091bb0a-0"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "label": "Shop the looks"
-      }
-    },
     "9e708d70-e3a7-4ef4-aee1-4e3de1786549": {
       "type": "image-with-text",
       "blocks": {
         "template--16192741212318__9e708d70-e3a7-4ef4-aee1-4e3de1786549-16857338568325b8ad-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cross-Diffused_3.png",
-            "tab_label": "Cross Diffuse Technology",
-            "subheading": "Slim-Fit Protection",
-            "title": "13 foot Drop-Test Certified",
-            "content": "<p>Our patent-pending Cross Diffuse shock absorption technology has been third-party tested and approved to offer maximum protection for your device against anything life throws your way.<\/p>",
+            "image": "shopify:\/\/shop_images\/Frame_2.png",
+            "tab_label": "Made in the USA",
+            "subheading": "Proudly",
+            "title": "Made in the USA",
+            "content": "<p>We take great pride in declaring that Liquid Glass by cellhelmet is proudly made in the USA!<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -333,29 +386,11 @@
         "reveal_on_scroll": true,
         "background_type": "full_width",
         "background_overlap": "image",
-        "image_position": "left",
+        "image_position": "right",
         "text_alignment": "center",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "ef323271-76c5-45cb-8787-fe563e38b075": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "we got you covered",
-        "title": "Damage your case?",
-        "content": "<p>At cellhelmet, we stand behind our products, which is why we offer a lifetime warranty on all our cases. So, if you're looking for scratch-resistant, slim protection for your {{ product.metafields.custom.phone_model.value }}, the Magnitude is the perfect choice. Don't forget it's MagSafe® Compatible and made from recycled materials.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#282828",
-        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -366,11 +401,11 @@
         "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/orangeBlue-View_1.png",
+            "image": "shopify:\/\/shop_images\/Frame_3.png",
             "tab_label": "Item",
-            "subheading": "Saving the world one case at a time",
-            "title": "50% Recycled Materials",
-            "content": "<p>The Fortitude is made from 50 percent recycled TPU material, making it a smart choice for the environment. It's equipped with a grippy edge texture to maintain control while holding your iPhone, and its integrated tether hook allows for added convenience.<\/p>",
+            "subheading": "Invisible Phone Screen Protection",
+            "title": "stronger on a molecular level",
+            "content": "<p>Imagine a shield so powerful, it forms an invisible armor around any surface, safeguarding it against the harshest of elements and everyday wear and tear. Now apply that armor to your phone - that's Liquid Glass. It's a cutting-edge solution in protective coatings that redefines screen strength on a molecular level. Our advanced liquid formula penetrates deep into the molecular structure, binding with the surface at an atomic level, and creating an impenetrable layer of durability.<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -402,6 +437,37 @@
       "settings": {
       }
     },
+    "0f055fc5-ffbb-4e89-9170-3bc9a31a2e51": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "3-Step Application",
+        "content": "<p>The application process for Liquid Glass is a breeze – you can unlock the extraordinary power of molecular strength in just three easy steps. To make sure that everyone gets the same phenomenal results, we've included easy-to-follow directions in the package AND we put together the instructional video below. The science behind Liquid Glass may be complex, but the application isn't.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "848b63a6-f05b-4599-883a-af0449b10ef6": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=sgN3-NOWN3g",
+        "background_type": "boxed",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82": {
       "type": "faq",
       "blocks": {
@@ -414,64 +480,50 @@
         "template--16192741212318__bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82-16866769371ce03034-4": {
           "type": "question",
           "settings": {
-            "title": "Is the Magnitude phone case compatible with the {{ product.metafields.custom.phone_model.value }}?",
-            "answer": "<p>Yes, the Magnitude phone case is specifically designed for the {{ product.metafields.custom.phone_model.value }} and is MagSafe compatible.<\/p>"
+            "title": "What is a liquid screen protector?",
+            "answer": "<p>Liquid screen protector is a type of screen protector that uses liquid glass technology to create a thin, protective layer on your device's screen. It is applied by wiping the liquid onto the screen and allowing it to dry.<\/p>"
           }
         },
         "62ca0a9d-6235-4132-bf69-7a976f0e2e2c": {
           "type": "question",
           "settings": {
-            "title": "Is the Magnitude phone case protective?",
-            "answer": "<p>Yes, the Magnitude phone case is 13ft third-party drop test certified and features patent-pending Cross Diffuse absorption technology, making it an extremely protective phone case.<\/p>"
+            "title": "How long does liquid screen protection last?",
+            "answer": "<p>Liquid screen protectors typically have a shelf life of up to 5 years, and some brands even offer a guarantee or warranty against screen damage. However, it is important to note that the level of protection provided by a liquid screen protector may decrease over time and with regular use, so it is recommended to reapply the liquid every few months for maximum effectiveness.<\/p>"
           }
         },
         "ccc34307-88f5-46fc-b965-d148bb1c9205": {
           "type": "question",
           "settings": {
-            "title": "Is the Magnitude phone case made from environmentally friendly materials?",
-            "answer": "<p>Yes, the Magnitude phone case is constructed of 50 percent recycled TPU material, making it not only stylish and protective but also environmentally friendly.<\/p>"
+            "title": "What are the benefits of a liquid screen protector?",
+            "answer": "<p>Liquid screen protectors are scratch-resistant, shatterproof, and can improve the overall clarity of your screen. They can also be applied to curved screens and have no air bubbles or residue.<\/p>"
           }
         },
         "bf49234d-2783-48f6-9c3b-d6c8f162f038": {
           "type": "question",
           "settings": {
-            "title": "Can I still use my favorite MagSafe® accessories with the Magnitude phone case?",
-            "answer": "<p>Yes, the Magnitude phone case features a color-matched MagSafe® ring, ensuring compatibility with all your favorite MagSafe® accessories.<\/p>"
+            "title": "How do I apply a liquid screen protector?",
+            "answer": "<p>cellhelmet's Liquid screen protectors are easy-to-apply by following the installation instructions included with your purchase.  The entire process takes roughly 10 minutes, before use, and will take 24 hours to fully cure. <\/p>"
           }
         },
         "858f6205-7ba3-4393-a9b5-dd1f2b6e4de7": {
           "type": "question",
           "settings": {
-            "title": "Does the Magnitude phone case come with a tether strap?",
-            "answer": "<p>Yes, the Magnitude phone case features an integrated tether hook, allowing for use with cellhelmet Tether Straps.<\/p>"
-          }
-        },
-        "2abe0de4-8e4b-4109-9ae6-b00de12cecbf": {
-          "type": "question",
-          "settings": {
-            "title": "Is the Magnitude phone case scratch-resistant?",
-            "answer": "<p>Yes, the Magnitude phone case is scratch-resistant, ensuring that your phone stays looking brand new for longer.<\/p>"
-          }
-        },
-        "e5ac9be7-01f6-4dc5-ad28-8831fde7e6b5": {
-          "type": "question",
-          "settings": {
-            "title": "Is the Magnitude phone case easy to install and remove?",
-            "answer": "<p>Yes, the Magnitude phone case is designed as a snap-on phone case, making it easy to install and remove as needed.<\/p>"
-          }
-        },
-        "7a5efdb4-59de-4c3d-9fbd-ea3313d16c78": {
-          "type": "question",
-          "settings": {
-            "title": "Does the Magnitude phone case come with a product lifetime warranty?",
-            "answer": "<p>Yes, all cellhelmet products come with a product lifetime warranty, ensuring that you can trust the quality of your purchase.<\/p>"
+            "title": "How does liquid screen protection compare to traditional screen protectors?",
+            "answer": "<p>While traditional screen protectors offer some level of protection, liquid screen protectors can provide stronger and longer-lasting protection due to their ability to strengthen the screen on a molecular level. Additionally, liquid screen protectors can be used on any device, regardless of size or shape, making them a versatile option for many users.<\/p>"
           }
         },
         "af8ff48a-8cde-4e36-a59b-6485aee7cf9c": {
           "type": "question",
           "settings": {
-            "title": "How do I make a warranty claim for my cellhelmet Magnitude Case?",
-            "answer": "<p>If your cellhelmet Magnitude Case gets cracked or chipped, simply email customer service atcustomer.service@cellhelmet.com. You will receive a replacement Magnitude Case that will be shipped to your address. If you have any questions about the warranty or need assistance with making a claim, please <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">contact cellhelmet's customer service team<\/a>.<\/p>"
+            "title": "How do I make a warranty claim if my screen gets cracked and I have screen repair coverage?",
+            "answer": "<p>If your cellhelmet screen gets cracked or chipped, simply email customer service atcustomer.service@cellhelmet.com. If you have any questions about the warranty or need assistance with making a claim, please <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">contact cellhelmet's customer service team<\/a>.<\/p>"
+          }
+        },
+        "1393f47a-86bc-4d85-bbbb-615c652b1d48": {
+          "type": "question",
+          "settings": {
+            "title": "What is the Screen Repair Protection Guarantee by cellhelmet?",
+            "answer": "<p>cellhelmet offers a screen repair guarantee where they will reimburse you for the repair of a damaged screen, up to a $500 value, should your device experience breakage after using their liquid glass screen protector.  Protection Guarantees will vary based on the coverage option that you purchase.  <\/p>"
           }
         }
       },
@@ -482,10 +534,8 @@
         "ccc34307-88f5-46fc-b965-d148bb1c9205",
         "bf49234d-2783-48f6-9c3b-d6c8f162f038",
         "858f6205-7ba3-4393-a9b5-dd1f2b6e4de7",
-        "2abe0de4-8e4b-4109-9ae6-b00de12cecbf",
-        "e5ac9be7-01f6-4dc5-ad28-8831fde7e6b5",
-        "7a5efdb4-59de-4c3d-9fbd-ea3313d16c78",
-        "af8ff48a-8cde-4e36-a59b-6485aee7cf9c"
+        "af8ff48a-8cde-4e36-a59b-6485aee7cf9c",
+        "1393f47a-86bc-4d85-bbbb-615c652b1d48"
       ],
       "settings": {
         "show_navigation": false,
@@ -533,17 +583,20 @@
     "shogun-helper",
     "shogun-above",
     "main",
+    "ff43bb0e-6a79-4ae3-854b-027e447c3978",
     "c8cb2cdf-33b9-4f89-b3e6-c55dfc4c8f17",
     "a6378a7c-1e4b-4aed-812f-8407e07887d5",
+    "7a5b3f46-e7e2-4e3a-9250-d9814b4fbffb",
+    "0905907a-ae59-405d-a9e2-ec4f7b1f277f",
+    "ef323271-76c5-45cb-8787-fe563e38b075",
     "299ab62b-52b4-4ecb-8e61-f10fd1365292",
     "b6714d57-164a-42e4-aa68-ca9ec01f90d9",
-    "0905907a-ae59-405d-a9e2-ec4f7b1f277f",
-    "82ca1604-a9fe-4f9f-85aa-9681eefc145a",
     "9e708d70-e3a7-4ef4-aee1-4e3de1786549",
-    "ef323271-76c5-45cb-8787-fe563e38b075",
     "2d4ab9df-742d-4770-893d-347b615e2490",
     "shogun-below",
     "product-content",
+    "0f055fc5-ffbb-4e89-9170-3bc9a31a2e51",
+    "848b63a6-f05b-4599-883a-af0449b10ef6",
     "bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82",
     "1680200047f7e398fc"
   ]

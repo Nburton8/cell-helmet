@@ -1,1 +1,117 @@
-{"sections":{"shogun-helper":{"type":"shogun-helper","settings":{}},"shogun-above":{"type":"shogun-above","settings":{}},"main":{"type":"main-product","blocks":{"variant_picker":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"selector_mode":"dropdown","color_mode":"color","size_chart_page":""}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_payment_button":true,"atc_button_background":"rgba(0,0,0,0)","atc_button_text_color":"rgba(0,0,0,0)","buy_now_button_background":"rgba(0,0,0,0)","buy_now_button_text_color":"rgba(0,0,0,0)"}}},"block_order":["variant_picker","quantity_selector","buy_buttons"],"settings":{"show_vendor":true,"show_sku":false,"show_taxes_included":false,"show_product_rating":false,"show_sticky_add_to_cart":true,"show_share_buttons":true,"help_page":"","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"show_thumbnails_on_mobile":false,"desktop_thumbnails_position":"bottom","transition_effect":"slide"}},"product-content":{"type":"product-content","blocks":{"description":{"type":"description","settings":{}},"84858366-db06-4c1b-986b-43daa697aece":{"type":"trust","settings":{"icon_1":"picto-fast-delivery","title_1":"Fast Processing","content_1":"<p>Replacement units will be dispersed within (1) business day<\/p>","icon_2":"picto-customer-support","title_2":"Customer Support","content_2":"<p>Should a particular model be out of stock, we will notify you via email and an estimated time frame for replacement will be given.<\/p>","icon_3":"picto-credit-card","title_3":"$9.99 Processing \/ Handling Fee","content_3":"<p>All warranty replacements are subject to a processing and handling fee, as detailed below<\/p><ul><li>Lifetime Warranty Process\/Handling Fees - $9.99<\/li><\/ul>"}}},"block_order":["description","84858366-db06-4c1b-986b-43daa697aece"],"settings":{}},"product-recommendations":{"type":"product-recommendations","disabled":true,"blocks":{"0c2a6039-d98a-4f1e-ac85-d591c17b9114":{"type":"product","disabled":true,"settings":{"product":""}},"e9710249-d279-4a33-80a2-28c52c77bc41":{"type":"product","disabled":true,"settings":{"product":""}}},"block_order":["0c2a6039-d98a-4f1e-ac85-d591c17b9114","e9710249-d279-4a33-80a2-28c52c77bc41"],"settings":{"subheading":"","title":"You may also like","recommendations_count":4,"background":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"shogun-below":{"type":"shogun-below","settings":{}}},"order":["shogun-helper","shogun-above","main","product-content","product-recommendations","shogun-below"]}
+{
+  "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "84858366-db06-4c1b-986b-43daa697aece": {
+          "type": "trust",
+          "settings": {
+            "icon_1": "picto-fast-delivery",
+            "title_1": "Fast Processing",
+            "content_1": "<p>Replacement units will be dispersed within (1) business day<\/p>",
+            "icon_2": "picto-customer-support",
+            "title_2": "Customer Support",
+            "content_2": "<p>Should a particular model be out of stock, we will notify you via email and an estimated time frame for replacement will be given.<\/p>",
+            "icon_3": "picto-credit-card",
+            "title_3": "$9.99 Processing \/ Handling Fee",
+            "content_3": "<p>All warranty replacements are subject to a processing and handling fee, as detailed below<\/p><ul><li>Lifetime Warranty Process\/Handling Fees - $9.99<\/li><\/ul>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "84858366-db06-4c1b-986b-43daa697aece",
+        "description"
+      ],
+      "settings": {
+      }
+    },
+    "6c3701b0-0682-42ce-a9ac-044f5b32b8bd": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "shogun-helper",
+    "shogun-above",
+    "main",
+    "product-content",
+    "6c3701b0-0682-42ce-a9ac-044f5b32b8bd",
+    "shogun-below"
+  ]
+}

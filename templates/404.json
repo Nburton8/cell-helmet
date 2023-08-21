@@ -1,1 +1,83 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "settings": {
+      }
+    },
+    "ef640b38-5a94-4502-9cdd-a84a09f98313": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16021087879326__ef640b38-5a94-4502-9cdd-a84a09f98313-168753641803d227c7-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "cellhelmet-liquid-glass-screen-protectors",
+            "label": "Screen Protection",
+            "button_text": "Shop Screen Protection",
+            "button_url": "shopify:\/\/collections\/cellhelmet-screen-protection-1"
+          }
+        },
+        "0adbd422-5738-4a2c-af5f-23d8282fa222": {
+          "type": "collection",
+          "settings": {
+            "collection": "cellhelmet-screen-cleaners",
+            "label": "Screen Clean",
+            "button_text": "Shop Screen CLean",
+            "button_url": ""
+          }
+        },
+        "591d73d2-a5e7-4227-b05d-37d06a160ec3": {
+          "type": "collection",
+          "settings": {
+            "collection": "cellhelmet-cables-and-wireless-charging",
+            "label": "Cables \/ Wireless Charging",
+            "button_text": "Shop Cables \/ Wireless Charging",
+            "button_url": ""
+          }
+        },
+        "7eaff68f-88ab-4e36-b091-24a4fbad56bb": {
+          "type": "collection",
+          "settings": {
+            "collection": "cellhelmet-power-banks-1",
+            "label": "Power Banks",
+            "button_text": "Shop Power Banks",
+            "button_url": ""
+          }
+        },
+        "fb712916-6e03-4d9e-8e47-a21dae53b1cd": {
+          "type": "collection",
+          "settings": {
+            "collection": "cellhelmet-car-and-wall-blocks",
+            "label": "Car \/ Wall Blocks",
+            "button_text": "Shop Car \/ Wall Blocks",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021087879326__ef640b38-5a94-4502-9cdd-a84a09f98313-168753641803d227c7-0",
+        "0adbd422-5738-4a2c-af5f-23d8282fa222",
+        "591d73d2-a5e7-4227-b05d-37d06a160ec3",
+        "7eaff68f-88ab-4e36-b091-24a4fbad56bb",
+        "fb712916-6e03-4d9e-8e47-a21dae53b1cd"
+      ],
+      "settings": {
+        "subheading": "Lets Get you Started",
+        "title": "",
+        "content": "",
+        "products_count": 12,
+        "products_per_row": 6,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ef640b38-5a94-4502-9cdd-a84a09f98313"
+  ]
+}

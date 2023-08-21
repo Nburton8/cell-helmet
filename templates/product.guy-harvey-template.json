@@ -1,0 +1,638 @@
+{
+  "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "29042b99-ce26-42d1-bfbd-62c5a6674c1b": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "498363fc-e8ef-4803-aec0-fd21e5ce0268": {
+          "type": "shopify:\/\/apps\/upsell-cross-sell-selleasy\/blocks\/lb-upsell-fbt-block\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "415d0699-a04c-4b83-8776-d33aea402811": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
+          "settings": {
+            "stars_fill_color": "#000000",
+            "star_size": 15,
+            "text_align": "center",
+            "product": "",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "89430de8-e7e0-49f4-ac09-2319660b0c18": {
+          "type": "shopify:\/\/apps\/inkybay-product-personalizer\/blocks\/app-block-product\/06a6337d-7eae-493f-b4ed-8b9f394746af",
+          "settings": {
+            "inkybay_check_inventory": "no",
+            "inkybay_option_after_sizecolor": "optionsizecolor",
+            "inkybay_custom_css": "#EFOLI_CUSTOMIZE_IT_BUTTON {\n  margin-bottom: -15px;\n}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "13993073-130f-42f5-990b-ff45a469fba1": {
+          "type": "shopify:\/\/apps\/upsell-cross-sell-selleasy\/blocks\/lb-upsell-addon-block\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "77c1a237-54d7-46ae-aacc-25a57b1c66b7": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "29042b99-ce26-42d1-bfbd-62c5a6674c1b",
+        "498363fc-e8ef-4803-aec0-fd21e5ce0268",
+        "415d0699-a04c-4b83-8776-d33aea402811",
+        "variant_picker",
+        "quantity_selector",
+        "89430de8-e7e0-49f4-ac09-2319660b0c18",
+        "buy_buttons",
+        "13993073-130f-42f5-990b-ff45a469fba1",
+        "77c1a237-54d7-46ae-aacc-25a57b1c66b7"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": true,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide"
+      }
+    },
+    "ff43bb0e-6a79-4ae3-854b-027e447c3978": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/Partner_Icons-01.png",
+            "custom_icon_width": 50,
+            "title": "Lifetime Warranty",
+            "content": "<p>We believe so strongly in our products that we stand behind every one we make so that you can buy with confidence.<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/Partner_Icons-02_13f5a720-3e74-4db0-94b2-5a67135eee7b.png",
+            "custom_icon_width": 50,
+            "title": "MagSafe Compatible Cases",
+            "content": "<p>Unlock the power of MagSafe.  Designed for style and comfort, but built for protection against scratches and drops.  <\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/Partner_Icons-03.png",
+            "custom_icon_width": 50,
+            "title": "Fun Color Options",
+            "content": "<p>Our cases come in a multitude of vibrant colors to choose from, so you can find the perfect one to match your style, without sacrificing protection. <\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/Partner_Icons-04_62f4f9ea-4a1c-45e7-aef3-e7531e3a29e9.png",
+            "custom_icon_width": 50,
+            "title": "Made From Recycled Materials",
+            "content": "<p>Made of recycled materials. All cases are constructed of 50 percent recycled TPU material. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-0",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-1",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-2",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-3"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c8cb2cdf-33b9-4f89-b3e6-c55dfc4c8f17": {
+      "type": "product-recommendations",
+      "blocks": {
+        "73c61cb3-1c5b-458c-9d1e-df31c6fb56ca": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "20w-car-pd-dual-c-c"
+          }
+        },
+        "1f2500e5-e459-4b0a-93c0-a86c5cc1d5a7": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "20w-wall-pd-dual-c-c"
+          }
+        },
+        "e6c0bb86-c834-4407-b766-9fc6fa30f3d2": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "chmag-15w-c"
+          }
+        },
+        "409237ad-5ccb-4274-b742-f3f2b0387456": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": ""
+          }
+        },
+        "9ecedcbe-deed-46b2-8eaa-d38949a275fa": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "car-vent-mount-w-fast-wireless-charging-pad-magnetic-alignment-technology-15w"
+          }
+        }
+      },
+      "block_order": [
+        "73c61cb3-1c5b-458c-9d1e-df31c6fb56ca",
+        "1f2500e5-e459-4b0a-93c0-a86c5cc1d5a7",
+        "e6c0bb86-c834-4407-b766-9fc6fa30f3d2",
+        "409237ad-5ccb-4274-b742-f3f2b0387456",
+        "9ecedcbe-deed-46b2-8eaa-d38949a275fa"
+      ],
+      "custom_css": [
+        ".aspect-ratio--square {width: 75%; height: 75%;}",
+        ".product-item-meta__title {font-size: 75%;}",
+        ".h3 {font-size: 90%;}",
+        ".container,.vertical-breather {margin-bottom: -16px; margin-top: -16px;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 5,
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b6714d57-164a-42e4-aa68-ca9ec01f90d9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Header_f84f27d8-27d2-4e18-977a-e940341c26ae.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "0905907a-ae59-405d-a9e2-ec4f7b1f277f": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Embrace The Deep Seas with Guy Harvey Cases",
+        "content": "<p>Embrace the deep seas with Guy Harvey cases! Guy Harvey has collaborated with cellhelmet to provide vibrant cases inspired by his popular paintings. The cellhelmet x Guy Harvey collaboration series of cases blends cellhelmet’s proprietary Dual Layered Protection technology with masterful illustrations from Guy Harvey himself. The combination of uber-protective cases and amazing original art from Dr. Guy Harvey himself delivers an end result of stylish protection like no other. Every purchase benefits the marine conservation and education work of the Guy Harvey Foundation.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0d9a01c4-fd7f-4bff-a5b2-f928b2753ecf": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_24e2dd4f-da06-4709-819b-741cf29b8d04.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "a6378a7c-1e4b-4aed-812f-8407e07887d5": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "SOMETHING FOR EVERYONE",
+        "title": "POWER BANKS & CASES",
+        "content": "<p>Experience the sea breeze with our protective cases and power banks that are compatible with Apple iPhones and the Samsung Galaxy.  Explore our art-inspired-wrapped power banks in 5K, 10K and 20K capacity. The Fortitude case is their toughest case for your most challenging deep sea adventure, wrapped in your chosen Guy Harvey inspired print. It also features a Pyramid Protect pattern plus Cross-Edge diffuse inside to help with impact dispersion and heat dissipation. Their power banks are engineered and designed to be slim, easy to use and reliable. They offer three different capacities to meet your needs: 5k, 10k and 20k. The power banks are printed with your favorite Officially Licensed Guy Harvey patterns so you can charge them up, toss them in your rucksack, and hit the deep sea knowing that your phone’s battery life won’t limit your adventure. They even come with multiple charging ports so when you set up camp with your crew everyone can rest up and wake with a full-charge.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ef323271-76c5-45cb-8787-fe563e38b075": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "we got you covered",
+        "title": "Damage your screen?",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "299ab62b-52b4-4ecb-8e61-f10fd1365292": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+          }
+        },
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+          }
+        },
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.<\/p>"
+          }
+        },
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-0",
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-1",
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-2",
+        "template--16192741212318__299ab62b-52b4-4ecb-8e61-f10fd1365292-1686751818949945cd-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "9e708d70-e3a7-4ef4-aee1-4e3de1786549": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16192741212318__9e708d70-e3a7-4ef4-aee1-4e3de1786549-16857338568325b8ad-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Power_Bank_82a2df81-ee55-4279-88aa-d507eaba85fd.png",
+            "tab_label": "Lifetime Warranty",
+            "subheading": "Stay charged",
+            "title": "Power on the Go",
+            "content": "<p>Looking for a power bank that’s both stylish and functional? Look no further than cellhelmet’s Guy Harvey  power banks! These power banks come in 5k and 10k power banks and are printed with your favorite Officially Licensed Guy Harvey patterns. The 5k power bank will charge Lightning, USB-C and Micro USB devices 0 - 100% up to 2 times on one charge. The 10k power bank is capable of providing up to four (4) full charges, depending on device, usage and environment. It has two type A ports and one type C port with dual port output (2.1A \/ 1A) - 2.1A input.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16192741212318__9e708d70-e3a7-4ef4-aee1-4e3de1786549-16857338568325b8ad-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2d4ab9df-742d-4770-893d-347b615e2490": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnitude_3fdd2edc-9b2a-4f9f-ba14-c57cd08942aa.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "The Power of Magsafe",
+            "content": "<p>Cellhelmet’s iPhone 14 cases are MagSafe compatible and allow you to connect to unlimited accessories. The Magnitude case for iPhone 14 is MagSafe compatible, so you can easily attach your favorite accessories. It’s made from 50% recycled TPU material and features Cross Diffuse technology for shock absorption. The Fortitude case is also MagSafe compatible and offers unparalleled protection in the ultimate dual-layered iPhone 14 case. It’s an investment in the protection and longevity of your iPhone 14.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "4755185e-d8e4-4a64-acb2-cce3faf40404": {
+      "type": "image-with-text",
+      "blocks": {
+        "d523f4ba-1a49-4886-a945-1a6a94917e79": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fortitude_90acf3fe-5cb6-4ec3-89a4-2c14ce24f541.png",
+            "tab_label": "",
+            "subheading": "Stay Protected",
+            "title": "Dual Layer Protection",
+            "content": "<p>The Guy Harvey case series by cellhelmet is the ultimate protection for your phone. These cases are certified military-level protection and are made with a dual layer hard outer shell & inner shock absorbent TPU that protects your phone from hard drops and everyday impacts. The Fortitude Series case is made with patented Cross Diffuse & Pyramid Protect technologies that provide edge-to-edge protection and the ultimate support to the back of your device. With Guy Harvey licensed designs printed on them, these cases are not only protective but also stylish and unique.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d523f4ba-1a49-4886-a945-1a6a94917e79"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "693fdb8f-3913-4d12-a48e-4ad3ef5d52f3": {
+      "type": "image-with-text",
+      "blocks": {
+        "e34b7f7a-494c-4d8a-b6b7-5a477df12947": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/High_Quality_UV_Print_24eb34ba-2c9b-40b4-9fe2-1ee4d3898391.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Lifetime Warranty",
+            "content": "<p>At cellhelmet, we stand behind our products, which is why we offer a lifetime warranty on all our products, including the Guy Harvey collection. Warranty replacements are unlimited, when accompanied by the original receipt (no warranty registration necessary). This Lifetime Warranty does not cover loss or theft.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e34b7f7a-494c-4d8a-b6b7-5a477df12947"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "settings": {
+      }
+    },
+    "bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82": {
+      "type": "faq",
+      "blocks": {
+        "template--16192741212318__bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82-16866769371ce03034-3": {
+          "type": "category",
+          "settings": {
+            "title": "Product"
+          }
+        },
+        "template--16192741212318__bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82-16866769371ce03034-4": {
+          "type": "question",
+          "settings": {
+            "title": "What is the $100 & $300 Screen Repair Protection Guarantee by cellhelmet?",
+            "answer": "<p>cellhelmet offers a screen repair guarantee where they will reimburse you for the repair of a damaged screen,  up to a $300 value, should your device experience breakage after using their tempered glass screen protector.<\/p>"
+          }
+        },
+        "62ca0a9d-6235-4132-bf69-7a976f0e2e2c": {
+          "type": "question",
+          "settings": {
+            "title": "What is tempered glass and how does it protect my {{ product.metafields.custom.phone_model.value }} screen?",
+            "answer": "<p>Tempered glass is a type of glass that is specially treated to make it stronger and more resistant to impacts and scratches. It is commonly used as a screen protector for mobile devices like smartphones, as it can absorb the shock of accidental drops and prevent the screen from cracking or shattering.<\/p>"
+          }
+        },
+        "ccc34307-88f5-46fc-b965-d148bb1c9205": {
+          "type": "question",
+          "settings": {
+            "title": "What makes cellhelmet's Tempered Glass different from other screen protectors?",
+            "answer": "<p>cellhelmet's Tempered Glass is designed to provide complete protection for your phone screen while remaining crystal clear and ultra-thin. It features rounded edges that make it feel smooth and seamless, as well as an oleophobic coating that prevents fingerprints and smudges from appearing on the screen. Additionally, it comes with a lifetime warranty that covers any cracks or chips in the glass, so you can rest assured that your phone will be protected for the life of the device.<\/p>"
+          }
+        },
+        "bf49234d-2783-48f6-9c3b-d6c8f162f038": {
+          "type": "question",
+          "settings": {
+            "title": "ow do I install cellhelmet's Tempered Glass on my phone?",
+            "answer": "<p>Installing cellhelmet's Tempered Glass is easy and hassle-free. Simply clean your phone screen with the included cleaning cloth, then align the protector with the edges of your screen and press it down firmly to adhere. The tempered glass will automatically adhere to your screen without any air bubbles.<\/p>"
+          }
+        },
+        "858f6205-7ba3-4393-a9b5-dd1f2b6e4de7": {
+          "type": "question",
+          "settings": {
+            "title": "What if I have trouble installing the tempered glass or it doesn't fit my phone?",
+            "answer": "<p>If you experience any issues with installing the tempered glass or if it doesn't fit your phone, please reach out to cellhelmet's <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">customer service team <\/a>for assistance. They are available to help you with any questions or concerns.<\/p>"
+          }
+        },
+        "af8ff48a-8cde-4e36-a59b-6485aee7cf9c": {
+          "type": "question",
+          "settings": {
+            "title": "How do I make a warranty claim for my cellhelmet Tempered Glass?",
+            "answer": "<p>If your cellhelmet Tempered Glass gets cracks or chips, simply head to our website and <a href=\"https:\/\/www.cellhelmet.com\/products\/warranty-replacement-tempered-glass\" title=\"Cellhelmet Tempered Glass Warranty Replacement\">order a new one <\/a>for $9.99 S&H. You will receive a replacement tempered glass that will be shipped to your address. If you have any questions about the warranty or need assistance with making a claim, please <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">contact cellhelmet's customer service team<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16192741212318__bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82-16866769371ce03034-3",
+        "template--16192741212318__bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82-16866769371ce03034-4",
+        "62ca0a9d-6235-4132-bf69-7a976f0e2e2c",
+        "ccc34307-88f5-46fc-b965-d148bb1c9205",
+        "bf49234d-2783-48f6-9c3b-d6c8f162f038",
+        "858f6205-7ba3-4393-a9b5-dd1f2b6e4de7",
+        "af8ff48a-8cde-4e36-a59b-6485aee7cf9c"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1680200047f7e398fc": {
+      "type": "apps",
+      "blocks": {
+        "391fb794-78a9-4243-892a-31b66c54002f": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "eb32a7bd-3e89-4176-9a82-b554bea74352": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "016592c3-5b1b-4e5c-b0f2-386d2480e1dc": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "391fb794-78a9-4243-892a-31b66c54002f",
+        "eb32a7bd-3e89-4176-9a82-b554bea74352",
+        "016592c3-5b1b-4e5c-b0f2-386d2480e1dc"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    }
+  },
+  "order": [
+    "shogun-helper",
+    "shogun-above",
+    "main",
+    "ff43bb0e-6a79-4ae3-854b-027e447c3978",
+    "c8cb2cdf-33b9-4f89-b3e6-c55dfc4c8f17",
+    "b6714d57-164a-42e4-aa68-ca9ec01f90d9",
+    "0905907a-ae59-405d-a9e2-ec4f7b1f277f",
+    "0d9a01c4-fd7f-4bff-a5b2-f928b2753ecf",
+    "a6378a7c-1e4b-4aed-812f-8407e07887d5",
+    "ef323271-76c5-45cb-8787-fe563e38b075",
+    "299ab62b-52b4-4ecb-8e61-f10fd1365292",
+    "9e708d70-e3a7-4ef4-aee1-4e3de1786549",
+    "2d4ab9df-742d-4770-893d-347b615e2490",
+    "4755185e-d8e4-4a64-acb2-cce3faf40404",
+    "693fdb8f-3913-4d12-a48e-4ad3ef5d52f3",
+    "shogun-below",
+    "product-content",
+    "bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82",
+    "1680200047f7e398fc"
+  ]
+}

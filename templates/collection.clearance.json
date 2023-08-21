@@ -1,0 +1,397 @@
+{
+  "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "89a6f611-3c1e-4c6d-824e-ea40b009d7ab": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Clearance_800_x_650_px_980_x_400_px.gif",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_description": true,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 5,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    },
+    "85715f27-a27c-4a1c-8adc-3704b8d993b9": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16196892623006__85715f27-a27c-4a1c-8adc-3704b8d993b9-168632010596cb22a5-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-charging-and-power-products",
+            "subheading": "",
+            "title": "Charging and Power Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__85715f27-a27c-4a1c-8adc-3704b8d993b9-168632010596cb22a5-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-tackbacks",
+            "subheading": "",
+            "title": "Tackbacks",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16196892623006__85715f27-a27c-4a1c-8adc-3704b8d993b9-168632010596cb22a5-0",
+        "template--16196892623006__85715f27-a27c-4a1c-8adc-3704b8d993b9-168632010596cb22a5-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "Power, Tackbacks and More",
+        "title": "Reduced Phone Accessories",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "478c0804-9b5f-4651-b5c5-c3f6b6c169e1": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-iphone-13-series-products",
+            "subheading": "reduced",
+            "title": "iphone 13 series products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-iphone-12-series-products",
+            "subheading": "reduced",
+            "title": "iphone 12 series products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-iphone-11-series-products",
+            "subheading": "reduced",
+            "title": "iphone 11 series products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearanced-iphone-xr-series-products",
+            "subheading": "reduced",
+            "title": "iphone xr series products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "fd15a851-6e71-424f-a038-01a50f63bead": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-iphone-xs-series-products",
+            "subheading": "reduced",
+            "title": "iphone XS Series products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "3d25a2a1-1c3e-48f7-9449-b9fec98cd3d1": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearanced-iphone-8-7-series-products",
+            "subheading": "reduced",
+            "title": "iphone 8 & 7 Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-1",
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-2",
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-3",
+        "template--16196892623006__478c0804-9b5f-4651-b5c5-c3f6b6c169e1-1686255847c89e55b0-4",
+        "fd15a851-6e71-424f-a038-01a50f63bead",
+        "3d25a2a1-1c3e-48f7-9449-b9fec98cd3d1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "Cases, Screen Protection, and More",
+        "title": "reduced apple iphone products",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "887e3c80-d82e-4172-9ae2-31503ec51f06": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-samsung-galaxy-s22-series-products",
+            "subheading": "",
+            "title": "Galaxy S22 Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearanced-samsung-galaxy-s21-series-products-1",
+            "subheading": "",
+            "title": "Galaxy S21 Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-samsung-galaxy-note-s20-series-products",
+            "subheading": "",
+            "title": "Galaxy S20 Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearanced-samsung-galaxy-note-20-series-products",
+            "subheading": "",
+            "title": "Galaxy Note 20 Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearanced-galaxy-note-10-series-products",
+            "subheading": "",
+            "title": "Galaxy Note 10 Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-samsung-galaxy-a-series-products",
+            "subheading": "",
+            "title": "Galaxy A Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-4",
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-3",
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-5",
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-2",
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-1",
+        "template--16196892623006__887e3c80-d82e-4172-9ae2-31503ec51f06-168631878359fe97ee-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "Cases, Screen Protection, and More",
+        "title": "Reduced Samsung Galaxy Series Products",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c18b502b-fe96-44d3-a741-28102048d036": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearanced-google-pixel-series-products-1",
+            "subheading": "",
+            "title": "Google Pixel Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-lg-stylo-series-products",
+            "subheading": "",
+            "title": "LG Stylo Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-motorola-moto-g-series-products",
+            "subheading": "",
+            "title": "Motorola Moto G Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "clearance-motorola-moto-stylus-series-products",
+            "subheading": "",
+            "title": "Motorola Moto Stylus Series Products",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-0",
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-1",
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-2",
+        "template--16196892623006__c18b502b-fe96-44d3-a741-28102048d036-168632010596cb22a5-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "Cases, Screen Protection, and More",
+        "title": "Reduced Misc. Manufactures Products",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "shogun-helper",
+    "shogun-above",
+    "89a6f611-3c1e-4c6d-824e-ea40b009d7ab",
+    "collection-banner",
+    "main",
+    "shogun-below",
+    "85715f27-a27c-4a1c-8adc-3704b8d993b9",
+    "478c0804-9b5f-4651-b5c5-c3f6b6c169e1",
+    "887e3c80-d82e-4172-9ae2-31503ec51f06",
+    "c18b502b-fe96-44d3-a741-28102048d036"
+  ]
+}

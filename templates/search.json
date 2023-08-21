@@ -1,1 +1,13 @@
-{"sections":{"main":{"type":"search-template-boost-pfs-filter","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "search-template-boost-pfs-filter",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

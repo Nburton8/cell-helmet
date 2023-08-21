@@ -259,6 +259,7 @@
           </line-item>
         {%- endfor -%}
       </form>
+      <p class="mini-cart__shipping-note">All products ordered before 12PM Monday-Friday will be shipped out same day.</p>
 
       {%- if section.settings.show_recommendations -%}
         <cart-drawer-recommendations section-id="{{ section.id }}" product-id="{{ cart.items.first.product_id }}" class="mini-cart__recommendations">

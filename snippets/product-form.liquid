@@ -361,9 +361,7 @@
       {%- when 'buy_buttons' -%}
         {%- if request.page_type != 'password' -%}
           <!-- Inkybay App Code Start: To load app faster [ https://apps.shopify.com/productsdesigner ] -->
-   <div id="EFOLI_DESIGNER_CUSTOMIZE_IT_BUTTON_PLACE"></div>
-   <script type="text/javascript" src="https://inkybay.com/shopify/js/inkybay.js?shop=cellhelmetiphone.myshopify.com"></script>
-<!-- Inkybay App Code End -->
+
           <div class="product-form__buy-buttons" {{ block.shopify_attributes }}>
             {%- form 'product', product, is: 'product-form', id: product_form_id -%}
               <input type="hidden" disabled name="id" value="{{ product.selected_or_first_available_variant.id }}">

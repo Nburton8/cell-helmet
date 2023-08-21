@@ -106,6 +106,61 @@
         "transition_effect": "slide"
       }
     },
+    "ff43bb0e-6a79-4ae3-854b-027e447c3978": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/Partner_Icons-01.png",
+            "custom_icon_width": 50,
+            "title": "Lifetime Warranty",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-02_f90c0de8-a766-4ce8-9174-d4b8dc9ebf21.png",
+            "custom_icon_width": 50,
+            "title": "Pocket Friendly",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-03_fd190425-b977-48cb-b196-74d7c274a097.png",
+            "custom_icon_width": 50,
+            "title": "Multiple Charging Ports",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>"
+          }
+        },
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/Icons-04_f1000d52-94b2-4c65-82a2-ca904a835ae5.png",
+            "custom_icon_width": 50,
+            "title": "On the Go Charging",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-0",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-1",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-2",
+        "template--16203652726942__ff43bb0e-6a79-4ae3-854b-027e447c3978-1688066199244f2a78-3"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "c8cb2cdf-33b9-4f89-b3e6-c55dfc4c8f17": {
       "type": "product-recommendations",
       "blocks": {
@@ -166,12 +221,34 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
-    "a6378a7c-1e4b-4aed-812f-8407e07887d5": {
+    "b6714d57-164a-42e4-aa68-ca9ec01f90d9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Header_10bd106a-3791-4340-b7b1-c87e5adf8bba.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "0905907a-ae59-405d-a9e2-ec4f7b1f277f": {
       "type": "rich-text",
       "settings": {
         "subheading": "",
-        "title": "Slim Protection for  your iPhone",
-        "content": "<p>Experience the best protection for your {{ product.metafields.custom.phone_model.value }} with the Magnitude phone case in {{ product.metafields.custom.product_color.value }} from cellhelmet. This slim-fit MagSafe® case offers the perfect blend of style, protection, and connectivity, ensuring that your phone stays safe from scratches and drops. <\/p><p><\/p>",
+        "title": "Power Banks",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
         "button_text": "",
         "button_link": "",
         "background_type": "full_width",
@@ -180,6 +257,65 @@
         "text_alignment": "center",
         "background": "#ffffff",
         "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0d9a01c4-fd7f-4bff-a5b2-f928b2753ecf": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_39655493-158a-4052-9543-6f9b3092b039.png",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "a6378a7c-1e4b-4aed-812f-8407e07887d5": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Power on the Go",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ef323271-76c5-45cb-8787-fe563e38b075": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "we got you covered",
+        "title": "Damage your screen?",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#282828",
+        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -236,91 +372,17 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
-    "b6714d57-164a-42e4-aa68-ca9ec01f90d9": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "reveal_on_scroll": true,
-        "section_height": "auto",
-        "image": "shopify:\/\/shop_images\/MAGNITUDE_W2W_APLUS2.png",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_link": "",
-        "link_style": "link",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "middle_center",
-        "text_color": "#ffffff",
-        "button_background": "#ffffff",
-        "button_text_color": "#000000",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "0905907a-ae59-405d-a9e2-ec4f7b1f277f": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "connect to a wide range of accessories",
-        "title": "magsafe® compatible",
-        "content": "<p>Tap into the convenience of MagSafe® connectivity! Easily snap-on our Magsafe compatible <a href=\"https:\/\/www.cellhelmet.com\/collections\/cellhelmet-magsafe-snap-ring\" title=\"MagSafe Snap Rings by Cellhelmet\">Snap Rings<\/a>, <a href=\"https:\/\/www.cellhelmet.com\/collections\/magsafe-wallets\" title=\"MagSafe Wallets by cellhelmet\">Wallets<\/a>, and <a href=\"https:\/\/www.cellhelmet.com\/products\/5k-mah-power-bank-15w-wireless-charging-with-magnetic-alignment-technology\" title=\"MagSafe Power Bank by cellhelmet\">5k Power Bank<\/a>.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#ffffff",
-        "text_color": "#282828",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "82ca1604-a9fe-4f9f-85aa-9681eefc145a": {
-      "type": "shop-the-look",
-      "blocks": {
-        "template--16192741212318__82ca1604-a9fe-4f9f-85aa-9681eefc145a-16866756675091bb0a-0": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Magsafe-Header_081157cb-31e9-466e-af34-2e71bf253486.png",
-            "dot_type": "inverted",
-            "product_1": "magsafe-compatible-wallet-with-kickstand-deep-sea-blue",
-            "product_1_horizontal_position": 28,
-            "product_1_vertical_position": 52,
-            "product_1_horizontal_position_mobile": 30,
-            "product_1_vertical_position_mobile": 30,
-            "product_2": "chmag-15w-c",
-            "product_2_horizontal_position": 79,
-            "product_2_vertical_position": 36,
-            "product_2_horizontal_position_mobile": 50,
-            "product_2_vertical_position_mobile": 50,
-            "product_3": "car-vent-mount-w-fast-wireless-charging-pad-magnetic-alignment-technology-15w",
-            "product_3_horizontal_position": 64,
-            "product_3_vertical_position": 50,
-            "product_3_horizontal_position_mobile": 70,
-            "product_3_vertical_position_mobile": 70
-          }
-        }
-      },
-      "block_order": [
-        "template--16192741212318__82ca1604-a9fe-4f9f-85aa-9681eefc145a-16866756675091bb0a-0"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "label": "Shop the looks"
-      }
-    },
     "9e708d70-e3a7-4ef4-aee1-4e3de1786549": {
       "type": "image-with-text",
       "blocks": {
         "template--16192741212318__9e708d70-e3a7-4ef4-aee1-4e3de1786549-16857338568325b8ad-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cross-Diffused_3.png",
-            "tab_label": "Cross Diffuse Technology",
-            "subheading": "Slim-Fit Protection",
-            "title": "13 foot Drop-Test Certified",
-            "content": "<p>Our patent-pending Cross Diffuse shock absorption technology has been third-party tested and approved to offer maximum protection for your device against anything life throws your way.<\/p>",
+            "image": "shopify:\/\/shop_images\/5k-10k.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "5k & 10k Power Bank",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "button_text": "",
             "button_link": ""
           }
@@ -328,6 +390,38 @@
       },
       "block_order": [
         "template--16192741212318__9e708d70-e3a7-4ef4-aee1-4e3de1786549-16857338568325b8ad-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2d4ab9df-742d-4770-893d-347b615e2490": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20k_028f4382-d4d3-4f12-9296-afce967e1c95.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "20k Power Bank",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0"
       ],
       "settings": {
         "reveal_on_scroll": true,
@@ -342,42 +436,56 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
-    "ef323271-76c5-45cb-8787-fe563e38b075": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "we got you covered",
-        "title": "Damage your case?",
-        "content": "<p>At cellhelmet, we stand behind our products, which is why we offer a lifetime warranty on all our cases. So, if you're looking for scratch-resistant, slim protection for your {{ product.metafields.custom.phone_model.value }}, the Magnitude is the perfect choice. Don't forget it's MagSafe® Compatible and made from recycled materials.<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "background_type": "full_width",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "background": "#282828",
-        "text_color": "#ffffff",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "2d4ab9df-742d-4770-893d-347b615e2490": {
+    "4755185e-d8e4-4a64-acb2-cce3faf40404": {
       "type": "image-with-text",
       "blocks": {
-        "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0": {
+        "d523f4ba-1a49-4886-a945-1a6a94917e79": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/orangeBlue-View_1.png",
-            "tab_label": "Item",
-            "subheading": "Saving the world one case at a time",
-            "title": "50% Recycled Materials",
-            "content": "<p>The Fortitude is made from 50 percent recycled TPU material, making it a smart choice for the environment. It's equipped with a grippy edge texture to maintain control while holding your iPhone, and its integrated tether hook allows for added convenience.<\/p>",
+            "image": "shopify:\/\/shop_images\/Multicharge_Pro.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Multi-Charge Pro",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "button_text": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--16192741212318__2d4ab9df-742d-4770-893d-347b615e2490-168573884426493b38-0"
+        "d523f4ba-1a49-4886-a945-1a6a94917e79"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "693fdb8f-3913-4d12-a48e-4ad3ef5d52f3": {
+      "type": "image-with-text",
+      "blocks": {
+        "e34b7f7a-494c-4d8a-b6b7-5a477df12947": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Customizable.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Make it Your Own",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e34b7f7a-494c-4d8a-b6b7-5a477df12947"
       ],
       "settings": {
         "reveal_on_scroll": true,
@@ -414,64 +522,43 @@
         "template--16192741212318__bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82-16866769371ce03034-4": {
           "type": "question",
           "settings": {
-            "title": "Is the Magnitude phone case compatible with the {{ product.metafields.custom.phone_model.value }}?",
-            "answer": "<p>Yes, the Magnitude phone case is specifically designed for the {{ product.metafields.custom.phone_model.value }} and is MagSafe compatible.<\/p>"
+            "title": "What is the $100 & $300 Screen Repair Protection Guarantee by cellhelmet?",
+            "answer": "<p>cellhelmet offers a screen repair guarantee where they will reimburse you for the repair of a damaged screen,  up to a $300 value, should your device experience breakage after using their tempered glass screen protector.<\/p>"
           }
         },
         "62ca0a9d-6235-4132-bf69-7a976f0e2e2c": {
           "type": "question",
           "settings": {
-            "title": "Is the Magnitude phone case protective?",
-            "answer": "<p>Yes, the Magnitude phone case is 13ft third-party drop test certified and features patent-pending Cross Diffuse absorption technology, making it an extremely protective phone case.<\/p>"
+            "title": "What is tempered glass and how does it protect my {{ product.metafields.custom.phone_model.value }} screen?",
+            "answer": "<p>Tempered glass is a type of glass that is specially treated to make it stronger and more resistant to impacts and scratches. It is commonly used as a screen protector for mobile devices like smartphones, as it can absorb the shock of accidental drops and prevent the screen from cracking or shattering.<\/p>"
           }
         },
         "ccc34307-88f5-46fc-b965-d148bb1c9205": {
           "type": "question",
           "settings": {
-            "title": "Is the Magnitude phone case made from environmentally friendly materials?",
-            "answer": "<p>Yes, the Magnitude phone case is constructed of 50 percent recycled TPU material, making it not only stylish and protective but also environmentally friendly.<\/p>"
+            "title": "What makes cellhelmet's Tempered Glass different from other screen protectors?",
+            "answer": "<p>cellhelmet's Tempered Glass is designed to provide complete protection for your phone screen while remaining crystal clear and ultra-thin. It features rounded edges that make it feel smooth and seamless, as well as an oleophobic coating that prevents fingerprints and smudges from appearing on the screen. Additionally, it comes with a lifetime warranty that covers any cracks or chips in the glass, so you can rest assured that your phone will be protected for the life of the device.<\/p>"
           }
         },
         "bf49234d-2783-48f6-9c3b-d6c8f162f038": {
           "type": "question",
           "settings": {
-            "title": "Can I still use my favorite MagSafe® accessories with the Magnitude phone case?",
-            "answer": "<p>Yes, the Magnitude phone case features a color-matched MagSafe® ring, ensuring compatibility with all your favorite MagSafe® accessories.<\/p>"
+            "title": "ow do I install cellhelmet's Tempered Glass on my phone?",
+            "answer": "<p>Installing cellhelmet's Tempered Glass is easy and hassle-free. Simply clean your phone screen with the included cleaning cloth, then align the protector with the edges of your screen and press it down firmly to adhere. The tempered glass will automatically adhere to your screen without any air bubbles.<\/p>"
           }
         },
         "858f6205-7ba3-4393-a9b5-dd1f2b6e4de7": {
           "type": "question",
           "settings": {
-            "title": "Does the Magnitude phone case come with a tether strap?",
-            "answer": "<p>Yes, the Magnitude phone case features an integrated tether hook, allowing for use with cellhelmet Tether Straps.<\/p>"
-          }
-        },
-        "2abe0de4-8e4b-4109-9ae6-b00de12cecbf": {
-          "type": "question",
-          "settings": {
-            "title": "Is the Magnitude phone case scratch-resistant?",
-            "answer": "<p>Yes, the Magnitude phone case is scratch-resistant, ensuring that your phone stays looking brand new for longer.<\/p>"
-          }
-        },
-        "e5ac9be7-01f6-4dc5-ad28-8831fde7e6b5": {
-          "type": "question",
-          "settings": {
-            "title": "Is the Magnitude phone case easy to install and remove?",
-            "answer": "<p>Yes, the Magnitude phone case is designed as a snap-on phone case, making it easy to install and remove as needed.<\/p>"
-          }
-        },
-        "7a5efdb4-59de-4c3d-9fbd-ea3313d16c78": {
-          "type": "question",
-          "settings": {
-            "title": "Does the Magnitude phone case come with a product lifetime warranty?",
-            "answer": "<p>Yes, all cellhelmet products come with a product lifetime warranty, ensuring that you can trust the quality of your purchase.<\/p>"
+            "title": "What if I have trouble installing the tempered glass or it doesn't fit my phone?",
+            "answer": "<p>If you experience any issues with installing the tempered glass or if it doesn't fit your phone, please reach out to cellhelmet's <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">customer service team <\/a>for assistance. They are available to help you with any questions or concerns.<\/p>"
           }
         },
         "af8ff48a-8cde-4e36-a59b-6485aee7cf9c": {
           "type": "question",
           "settings": {
-            "title": "How do I make a warranty claim for my cellhelmet Magnitude Case?",
-            "answer": "<p>If your cellhelmet Magnitude Case gets cracked or chipped, simply email customer service atcustomer.service@cellhelmet.com. You will receive a replacement Magnitude Case that will be shipped to your address. If you have any questions about the warranty or need assistance with making a claim, please <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">contact cellhelmet's customer service team<\/a>.<\/p>"
+            "title": "How do I make a warranty claim for my cellhelmet Tempered Glass?",
+            "answer": "<p>If your cellhelmet Tempered Glass gets cracks or chips, simply head to our website and <a href=\"https:\/\/www.cellhelmet.com\/products\/warranty-replacement-tempered-glass\" title=\"Cellhelmet Tempered Glass Warranty Replacement\">order a new one <\/a>for $9.99 S&H. You will receive a replacement tempered glass that will be shipped to your address. If you have any questions about the warranty or need assistance with making a claim, please <a href=\"https:\/\/www.cellhelmet.com\/pages\/cellhelmet-support\" title=\"Celhelmet's Customer Service Support\">contact cellhelmet's customer service team<\/a>.<\/p>"
           }
         }
       },
@@ -482,9 +569,6 @@
         "ccc34307-88f5-46fc-b965-d148bb1c9205",
         "bf49234d-2783-48f6-9c3b-d6c8f162f038",
         "858f6205-7ba3-4393-a9b5-dd1f2b6e4de7",
-        "2abe0de4-8e4b-4109-9ae6-b00de12cecbf",
-        "e5ac9be7-01f6-4dc5-ad28-8831fde7e6b5",
-        "7a5efdb4-59de-4c3d-9fbd-ea3313d16c78",
         "af8ff48a-8cde-4e36-a59b-6485aee7cf9c"
       ],
       "settings": {
@@ -533,15 +617,18 @@
     "shogun-helper",
     "shogun-above",
     "main",
+    "ff43bb0e-6a79-4ae3-854b-027e447c3978",
     "c8cb2cdf-33b9-4f89-b3e6-c55dfc4c8f17",
-    "a6378a7c-1e4b-4aed-812f-8407e07887d5",
-    "299ab62b-52b4-4ecb-8e61-f10fd1365292",
     "b6714d57-164a-42e4-aa68-ca9ec01f90d9",
     "0905907a-ae59-405d-a9e2-ec4f7b1f277f",
-    "82ca1604-a9fe-4f9f-85aa-9681eefc145a",
-    "9e708d70-e3a7-4ef4-aee1-4e3de1786549",
+    "0d9a01c4-fd7f-4bff-a5b2-f928b2753ecf",
+    "a6378a7c-1e4b-4aed-812f-8407e07887d5",
     "ef323271-76c5-45cb-8787-fe563e38b075",
+    "299ab62b-52b4-4ecb-8e61-f10fd1365292",
+    "9e708d70-e3a7-4ef4-aee1-4e3de1786549",
     "2d4ab9df-742d-4770-893d-347b615e2490",
+    "4755185e-d8e4-4a64-acb2-cce3faf40404",
+    "693fdb8f-3913-4d12-a48e-4ad3ef5d52f3",
     "shogun-below",
     "product-content",
     "bc2c0ac7-9e32-4f40-ae2b-2afbfaa5dd82",
