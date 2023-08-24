@@ -47,6 +47,7 @@
         },
         "f41d6115-0069-49f3-954f-118a37ff2f3d": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/1ed73907-1253-4f9c-8c29-12e4e5b60990",
+          "disabled": true,
           "settings": {
             "color_text_title": "#6d7175",
             "color_text_body": "#6d7175",
