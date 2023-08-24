@@ -45,14 +45,14 @@
             "buy_now_button_text_color": "#282828"
           }
         },
-        "4d2a5c99-9fde-4bb7-b184-c868f75a102e": {
+        "f41d6115-0069-49f3-954f-118a37ff2f3d": {
           "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/1ed73907-1253-4f9c-8c29-12e4e5b60990",
           "disabled": true,
           "settings": {
-            "color_text_title": "#6d7175",
-            "color_text_body": "#6d7175",
-            "dividers_color": "#8f8d8d",
-            "bacgkround_color": "#ffffff",
+            "color_text_title": "#6D7175",
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
             "border_thickness": 1,
             "border_radius": 0,
             "supporting_text_title": "Purchase options",
@@ -120,7 +120,7 @@
         "quantity_selector",
         "89430de8-e7e0-49f4-ac09-2319660b0c18",
         "ab041806-4783-4e4c-b698-a1eb02567f92",
-        "4d2a5c99-9fde-4bb7-b184-c868f75a102e",
+        "f41d6115-0069-49f3-954f-118a37ff2f3d",
         "13993073-130f-42f5-990b-ff45a469fba1",
         "47045f02-9d3f-4c93-871e-51e9d6986944",
         "08a5a65c-9e09-47b2-bea0-5d690ee9241b",
