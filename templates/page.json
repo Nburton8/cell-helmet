@@ -1,1 +1,46 @@
-{"sections":{"main":{"type":"main-page","settings":{"show_title":true,"page_width":"medium"}},"16637890241bab33e3":{"type":"apps","blocks":{"073a9f69-6fb6-4048-8b90-422950f51896":{"type":"shopify:\/\/apps\/simply-insurance\/blocks\/claimpage\/e9bd463f-26d8-4126-9497-0375dca0f009","disabled":true,"settings":{"raiseOrderClaimHeading":"Find Order","emailPhonePlaceholder":"Enter your Email","orderNumberPlaceholder":"Order Number \/ PO Number","customerComment":"Comment","attachment":"Attachment","generateClaimRequestbtn":"Generate Claim Request","submitClaimRequestbtn":"Submit Claim Request"}}},"block_order":["073a9f69-6fb6-4048-8b90-422950f51896"],"settings":{"include_horizontal_margins":true,"include_vertical_margins":true}},"shogun-helper":{"type":"shogun-helper","settings":{}}},"order":["shogun-helper","main","16637890241bab33e3"]}
+{
+  "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "large"
+      }
+    },
+    "16637890241bab33e3": {
+      "type": "apps",
+      "blocks": {
+        "073a9f69-6fb6-4048-8b90-422950f51896": {
+          "type": "shopify:\/\/apps\/simply-shipping-protection\/blocks\/claimpage\/e9bd463f-26d8-4126-9497-0375dca0f009",
+          "disabled": true,
+          "settings": {
+            "raiseOrderClaimHeading": "Find Order",
+            "emailPhonePlaceholder": "Enter your Email",
+            "orderNumberPlaceholder": "Order Number \/ PO Number",
+            "customerComment": "Comment",
+            "attachment": "Attachment",
+            "generateClaimRequestbtn": "Generate Claim Request",
+            "submitClaimRequestbtn": "Submit Claim Request"
+          }
+        }
+      },
+      "block_order": [
+        "073a9f69-6fb6-4048-8b90-422950f51896"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    }
+  },
+  "order": [
+    "shogun-helper",
+    "main",
+    "16637890241bab33e3"
+  ]
+}
