@@ -140,18 +140,21 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 
   gtag('config', 'AW-10936751102');
 </script>
-<script type='application/ld+json'>
-{
-	"@context": "http://schema.org",
-	"@type": "Product",
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.5",
-		"ratingCount": "545",
-		"reviewCount": "10465"
-	}
-}
-</script>
+{% if template contains 'product' %}
+  <script type='application/ld+json'>
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "{{ product.title }}",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "ratingCount": "545",
+      "reviewCount": "10465"
+    }
+  }
+  </script>
+  {% endif %}
 <meta name="p:domain_verify" content="3cedfe27d5f185fd54239cd10c2e74db"/>
 <!-- Microsft Ads-->
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"136017929"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
@@ -183,6 +186,7 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
   {{ content_for_layout }}
   
   <script src='https://widget.sezzle.com/v1/javascript/price-widget?uuid=5dc7bd5b-ae18-4b3e-8f16-fffbc3ad6fad'></script>
+<script src='https://widget.sezzle.com/v1/javascript/price-widget?uuid=5dc7bd5b-ae18-4b3e-8f16-fffbc3ad6fad'></script>
   <style type="text/css">
     body, html {
       width: 100% !important;
@@ -199,3 +203,4 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 {%- endcomment -%} 
 <script src='https://widget.sezzle.com/v1/javascript/price-widget?uuid=5dc7bd5b-ae18-4b3e-8f16-fffbc3ad6fad'></script>
  
+<script src='https://widget.sezzle.com/v1/javascript/price-widget?uuid=5dc7bd5b-ae18-4b3e-8f16-fffbc3ad6fad'></script>
