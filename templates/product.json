@@ -13,11 +13,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "29042b99-ce26-42d1-bfbd-62c5a6674c1b": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -50,6 +45,20 @@
             "buy_now_button_text_color": "#282828"
           }
         },
+        "4d2a5c99-9fde-4bb7-b184-c868f75a102e": {
+          "type": "shopify:\/\/apps\/subscriptions\/blocks\/app-block\/1ed73907-1253-4f9c-8c29-12e4e5b60990",
+          "settings": {
+            "color_text_title": "#6D7175",
+            "color_text_body": "#6D7175",
+            "dividers_color": "#8F8D8D",
+            "bacgkround_color": "#FFFFFF",
+            "border_thickness": 1,
+            "border_radius": 0,
+            "supporting_text_title": "Purchase options",
+            "subscription_policy_url": "",
+            "product": "{{product}}"
+          }
+        },
         "13993073-130f-42f5-990b-ff45a469fba1": {
           "type": "shopify:\/\/apps\/upsell-cross-sell-selleasy\/blocks\/lb-upsell-addon-block\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
           "disabled": true,
@@ -65,20 +74,52 @@
         "08a5a65c-9e09-47b2-bea0-5d690ee9241b": {
           "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
+            "margin": "",
+            "textColor": "",
+            "fontSize": "",
+            "ratingIconColor": "",
+            "ratingIconSize": "",
+            "questionsIconColor": "",
+            "questionsIconSize": ""
           }
         },
         "e40e918f-72c8-47f0-938f-f8655bb82b66": {
           "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
+            "textColor": "",
+            "backgroundColor": "",
+            "iconColor": "",
+            "boxShadow": "",
+            "hoverTextColor": "",
+            "hoverBackgroundColor": "",
+            "hoverBorderColor": "",
+            "hoverBoxShadow": "",
+            "margin": "",
+            "padding": "",
+            "buttonWidth": "",
+            "buttonHeight": "",
+            "mobileBreakpoint": "",
+            "mobileButtonWidth": "",
+            "fontSize": "",
+            "fontWeight": "",
+            "fontFamily": "",
+            "letterSpacing": "",
+            "textTransform": "",
+            "border": "",
+            "borderRadius": "",
+            "favedIconCode": "",
+            "favedIconSize": "",
+            "unFavedIconCode": "",
+            "unFavedIconSize": ""
           }
         }
       },
       "block_order": [
-        "29042b99-ce26-42d1-bfbd-62c5a6674c1b",
         "variant_picker",
         "quantity_selector",
         "89430de8-e7e0-49f4-ac09-2319660b0c18",
         "ab041806-4783-4e4c-b698-a1eb02567f92",
+        "4d2a5c99-9fde-4bb7-b184-c868f75a102e",
         "13993073-130f-42f5-990b-ff45a469fba1",
         "47045f02-9d3f-4c93-871e-51e9d6986944",
         "08a5a65c-9e09-47b2-bea0-5d690ee9241b",
@@ -98,6 +139,42 @@
         "show_thumbnails_on_mobile": false,
         "desktop_thumbnails_position": "left",
         "transition_effect": "slide"
+      }
+    },
+    "3487864d54ae04588a": {
+      "type": "apps",
+      "blocks": {
+        "c23767fa-9c63-459f-a3b1-5076e2fcf7a6": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "c23767fa-9c63-459f-a3b1-5076e2fcf7a6"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
       }
     },
     "product-content": {
@@ -138,43 +215,12 @@
     },
     "1680200047f7e398fc": {
       "type": "apps",
-      "blocks": {
-        "eb32a7bd-3e89-4176-9a82-b554bea74352": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "016592c3-5b1b-4e5c-b0f2-386d2480e1dc": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "eb32a7bd-3e89-4176-9a82-b554bea74352",
-        "016592c3-5b1b-4e5c-b0f2-386d2480e1dc"
-      ],
       "custom_css": [
 
       ],
       "settings": {
         "include_horizontal_margins": true,
         "include_vertical_margins": true
-      }
-    },
-    "3487864d54ae04588a": {
-      "type": "apps",
-      "blocks": {
-        "c23767fa-9c63-459f-a3b1-5076e2fcf7a6": {
-          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "c23767fa-9c63-459f-a3b1-5076e2fcf7a6"
-      ],
-      "settings": {
       }
     }
   },
